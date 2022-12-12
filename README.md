@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @smarklow
 - 👀 I’m interested in Cloud Engineering, Python, Web Scraping, Selenium Bots, HTML, CSS and all things data.
-- 🎓I'm a Mathematics Graduate currently in a Marketing Analyst who is proficient in SQL, Python and more.
+- 🎓I'm a Mathematics Graduate currently in a Marketing Analyst role who is proficient in SQL, Python and more.
 - 🌱 I’m currently learning HTML, CSS, Google Cloud Platform amongst other areas.
 - 📫 How to reach me: stevenmarklow@gmail.com
 
